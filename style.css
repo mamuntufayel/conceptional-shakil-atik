@@ -1,0 +1,17 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=The+Nautigal&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.sec-three{
+    margin-top: 150px;
+    margin-bottom: 300px;
+}
+.footer-height{
+    height: 50px;
+    
+}
+/* .height-card{
+    height: 500px;
+} */
